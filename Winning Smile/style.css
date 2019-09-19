@@ -1,0 +1,48 @@
+* {
+				font-family: Arial, Verdana, sans-serif;
+				color: #000000;
+				text-align: center;}
+			body
+				width: 90%;
+				margin: 0 auto;}
+			#content {
+				overflow: auto;}
+			#nav, #feature, #footer {
+				margin: 1%;}
+			.column1, .column2, .column3 {
+				background-color: #d11010;
+				width: 31.3%;
+				float: left;
+				margin: 1%;}
+			li {
+				display: inline;
+				padding: 0.5em;}
+			#nav, #footer {
+				background-color: ##ffffff;
+				padding: 0.5em 0;}
+			#feature, .article {
+				height: 10em;
+				margin-bottom: 1em;
+				background-color: #ffffff;}
+		
+			/* Additional styles for the forms */
+label {
+	float: left;
+	width: 70px;}
+br {
+	clear: left;}	
+form {
+	padding: 20px 0 20px 0;
+	width: 650px;
+	margin: 0 auto;}
+legend {
+	font-weight: bold;}
+.btn-work {
+    width: 250px;
+    height: 50px;
+    margin: 0 auto;
+    padding: 0;
+    display: inline-block;
+    line-height: 50px;
+    text-align: center;
+}
